@@ -1,3 +1,5 @@
+package kuaishou;
+
 import java.util.Scanner;
 
 public class ks01 {
